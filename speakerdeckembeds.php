@@ -7,4 +7,4 @@ Author: Brad Parbs
 Author URI: http://bradparbs.com/
 */
 
-wp_oembed_add_provider('#https?://(www\.)?speakerdeck.com/u/*#','http://speakerdeck.com/oembed.json?url=/',true);
+wp_oembed_add_provider('#https?://(www\.)?speakerdeck.com/*#','http://speakerdeck.com/oembed.json?url=/',true);
